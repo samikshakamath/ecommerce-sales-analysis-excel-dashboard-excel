@@ -1,11 +1,8 @@
 # Ecommerce Sales Analysis Dashboard – Microsoft Excel
+## Dashboard Preview
 
-<video src="videos/excel-interactive-dashboard.mp4"
-       autoplay
-       muted
-       loop
-       playsinline
-       width="100%">
+<video controls muted width="100%">
+  <source src="videos/excel-interactive-dashboard.mp4" type="video/mp4">
 </video>
 
 ## Project Description
