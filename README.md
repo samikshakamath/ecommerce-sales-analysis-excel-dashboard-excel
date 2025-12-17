@@ -1,5 +1,5 @@
 # Ecommerce Sales Analysis Dashboard – Microsoft Excel
-<video src="videos/Excel Interactive dashboard video.mp4"
+<video src="videos/excel-interactive-dashboard.mp4"
        autoplay
        muted
        loop
