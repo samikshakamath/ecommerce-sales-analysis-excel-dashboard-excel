@@ -1,4 +1,11 @@
 # Ecommerce Sales Analysis Dashboard – Microsoft Excel
+<video src="videos/Excel Interactive dashboard video.mp4"
+       autoplay
+       muted
+       loop
+       playsinline
+       width="100%">
+</video>
 
 ## Project Description
 This project involves the **design, development, and analysis of an interactive Ecommerce Sales Dashboard using Microsoft Excel**. The objective was to transform raw transactional data into a structured analytical tool that enables stakeholders to **monitor performance, identify trends, and evaluate profitability** across multiple business dimensions.
